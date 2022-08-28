@@ -4,4 +4,4 @@ layout: default
 
 # Horaires
 
-![](/assets/images/horaires.jpg)
+![](assets/images/horaires.jpg)
