@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Home
+# Accueil
 
 Bienvenue sur le site de la Cordée de Saint-Cyr
 
